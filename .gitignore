@@ -91,4 +91,4 @@ lerna-debug.log
 Thumbs.db
 
 # Report folder
-allure-results/*
+allure/*
