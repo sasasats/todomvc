@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "allure-commandline": "^2.27.0",
+    "testcafe": "^3.5.0",
+    "testcafe-reporter-allure": "^1.0.5"
+  }
+}
